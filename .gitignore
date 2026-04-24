@@ -1,0 +1,24 @@
+# Python virtual environments
+venv/
+env/
+.dlib/
+dlib/
+__pycache__/
+*.pyc
+
+# Jetson/IDE/OS-specific
+*.log
+*.csv
+*.npy
+*.pkl
+*.db
+*.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Debug or cache dirs
+debug_rois/
+Attendance_Entry/

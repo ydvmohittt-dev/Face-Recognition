@@ -1,0 +1,515 @@
+[2026-03-20 12:08:25,423] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-20 12:08:25,423] [INFO] 1. Single person capture
+[2026-03-20 12:08:25,423] [INFO] 2. Batch capture (multiple persons)
+[2026-03-20 12:08:25,423] [INFO] 3. Exit
+[2026-03-20 12:08:50,445] [ERROR] Invalid choice. Exiting...
+[2026-03-20 12:08:57,505] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-20 12:08:57,505] [INFO] 1. Single person capture
+[2026-03-20 12:08:57,505] [INFO] 2. Batch capture (multiple persons)
+[2026-03-20 12:08:57,505] [INFO] 3. Exit
+[2026-03-20 12:09:00,341] [INFO] Existing persons in database (12):
+[2026-03-20 12:09:00,341] [INFO]   1. ANMOL KUMARI (10 images)
+[2026-03-20 12:09:00,341] [INFO]   2. GAGANDEEP SINGH (10 images)
+[2026-03-20 12:09:00,341] [INFO]   3. GURSIMRAN JOT (10 images)
+[2026-03-20 12:09:00,341] [INFO]   4. HARJOT KAUR (10 images)
+[2026-03-20 12:09:00,341] [INFO]   5. JOBAN SINGH (10 images)
+[2026-03-20 12:09:00,341] [INFO]   6. KARANVEER SINGH (10 images)
+[2026-03-20 12:09:00,341] [INFO]   7. KARANVIR (10 images)
+[2026-03-20 12:09:00,357] [INFO]   8. LOVNISH VERMA (10 images)
+[2026-03-20 12:09:00,357] [INFO]   9. NIKSHEP PALIWAL (10 images)
+[2026-03-20 12:09:00,357] [INFO]   10. NITYA (10 images)
+[2026-03-20 12:09:00,360] [INFO]   11. RAHUL SIR (10 images)
+[2026-03-20 12:09:00,360] [INFO]   12. RAVI KANT (10 images)
+[2026-03-20 12:09:06,826] [INFO] Using CPU backend for DNN
+[2026-03-20 12:09:24,902] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-20 12:09:24,902] [INFO] 
+============================================================
+[2026-03-20 12:09:24,902] [INFO] Platform: Windows
+[2026-03-20 12:09:24,902] [INFO] Detection model: HOG
+[2026-03-20 12:09:24,902] [INFO] Max images: 10
+[2026-03-20 12:09:24,902] [INFO] ============================================================
+[2026-03-20 12:09:24,902] [INFO] INSTRUCTIONS:
+[2026-03-20 12:09:24,902] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-20 12:09:24,902] [INFO]   • Press 'q' to quit early
+[2026-03-20 12:09:24,902] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-20 12:09:24,902] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-20 12:09:24,902] [INFO]   • Vary your pose slightly between captures
+[2026-03-20 12:09:24,902] [INFO] ============================================================
+
+[2026-03-20 12:09:54,226] [INFO] [1/10] Saved 2_1.jpg
+[2026-03-20 12:09:55,267] [INFO] [2/10] Saved 2_2.jpg
+[2026-03-20 12:10:03,719] [INFO] [3/10] Saved 2_3.jpg
+[2026-03-20 12:10:03,891] [INFO] [4/10] Saved 2_4.jpg
+[2026-03-20 12:10:04,092] [INFO] [5/10] Saved 2_5.jpg
+[2026-03-20 12:10:04,258] [INFO] [6/10] Saved 2_6.jpg
+[2026-03-20 12:10:04,441] [INFO] [7/10] Saved 2_7.jpg
+[2026-03-20 12:10:04,607] [INFO] [8/10] Saved 2_8.jpg
+[2026-03-20 12:10:04,775] [INFO] [9/10] Saved 2_9.jpg
+[2026-03-20 12:10:04,954] [INFO] [10/10] Saved 2_10.jpg
+[2026-03-20 12:10:04,954] [INFO] Reached max image count (10)!
+[2026-03-20 12:10:05,270] [INFO] 
+============================================================
+[2026-03-20 12:10:05,270] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-20 12:10:05,270] [INFO] ============================================================
+[2026-03-20 12:10:05,270] [INFO]   • Person: 2
+[2026-03-20 12:10:05,276] [INFO]   • Images captured: 10/10
+[2026-03-20 12:10:05,276] [INFO]   • Session duration: 40.4 seconds
+[2026-03-20 12:10:05,276] [INFO]   • Average capture interval: 1.2 seconds
+[2026-03-20 12:10:05,277] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\2
+[2026-03-20 12:10:05,277] [INFO] ============================================================
+[2026-03-20 12:10:05,277] [INFO] Data capture complete! You can now run the attendance system.
+[2026-03-20 12:35:10,097] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-20 12:35:10,097] [INFO] 1. Single person capture
+[2026-03-20 12:35:10,097] [INFO] 2. Batch capture (multiple persons)
+[2026-03-20 12:35:10,097] [INFO] 3. Exit
+[2026-03-20 12:35:13,809] [INFO] Existing persons in database (13):
+[2026-03-20 12:35:13,809] [INFO]   1. 2 (10 images)
+[2026-03-20 12:35:13,809] [INFO]   2. ANMOL KUMARI (10 images)
+[2026-03-20 12:35:13,809] [INFO]   3. GAGANDEEP SINGH (10 images)
+[2026-03-20 12:35:13,809] [INFO]   4. GURSIMRAN JOT (10 images)
+[2026-03-20 12:35:13,809] [INFO]   5. HARJOT KAUR (10 images)
+[2026-03-20 12:35:13,809] [INFO]   6. JOBAN SINGH (10 images)
+[2026-03-20 12:35:13,809] [INFO]   7. KARANVEER SINGH (10 images)
+[2026-03-20 12:35:13,809] [INFO]   8. KARANVIR (10 images)
+[2026-03-20 12:35:13,809] [INFO]   9. LOVNISH VERMA (10 images)
+[2026-03-20 12:35:13,809] [INFO]   10. NIKSHEP PALIWAL (10 images)
+[2026-03-20 12:35:13,825] [INFO]   11. NITYA (10 images)
+[2026-03-20 12:35:13,825] [INFO]   12. RAHUL SIR (10 images)
+[2026-03-20 12:35:13,825] [INFO]   13. RAVI KANT (10 images)
+[2026-03-20 12:35:29,358] [INFO] Using CPU backend for DNN
+[2026-03-20 12:35:53,384] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-20 12:35:53,384] [INFO] 
+============================================================
+[2026-03-20 12:35:53,384] [INFO] Platform: Windows
+[2026-03-20 12:35:53,384] [INFO] Detection model: HOG
+[2026-03-20 12:35:53,384] [INFO] Max images: 10
+[2026-03-20 12:35:53,384] [INFO] ============================================================
+[2026-03-20 12:35:53,384] [INFO] INSTRUCTIONS:
+[2026-03-20 12:35:53,384] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-20 12:35:53,384] [INFO]   • Press 'q' to quit early
+[2026-03-20 12:35:53,384] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-20 12:35:53,384] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-20 12:35:53,384] [INFO]   • Vary your pose slightly between captures
+[2026-03-20 12:35:53,384] [INFO] ============================================================
+
+[2026-03-20 12:35:53,416] [WARNING] Failed to grab frame.
+[2026-03-20 12:35:53,416] [INFO] 
+============================================================
+[2026-03-20 12:35:53,416] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-20 12:35:53,416] [INFO] ============================================================
+[2026-03-20 12:35:53,416] [INFO]   • Person: MOHIT RAO
+[2026-03-20 12:35:53,416] [INFO]   • Images captured: 0/10
+[2026-03-20 12:35:53,416] [INFO]   • Session duration: 0.0 seconds
+[2026-03-20 12:35:53,416] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\MOHIT RAO
+[2026-03-20 12:35:53,416] [INFO] ============================================================
+[2026-03-20 12:35:53,416] [INFO] Note: Only 0 images captured. Consider capturing more for better recognition.
+[2026-03-20 12:44:56,478] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-20 12:44:56,478] [INFO] 1. Single person capture
+[2026-03-20 12:44:56,478] [INFO] 2. Batch capture (multiple persons)
+[2026-03-20 12:44:56,478] [INFO] 3. Exit
+[2026-03-20 12:44:58,728] [INFO] Existing persons in database (14):
+[2026-03-20 12:44:58,728] [INFO]   1. 2 (10 images)
+[2026-03-20 12:44:58,728] [INFO]   2. ANMOL KUMARI (10 images)
+[2026-03-20 12:44:58,728] [INFO]   3. GAGANDEEP SINGH (10 images)
+[2026-03-20 12:44:58,728] [INFO]   4. GURSIMRAN JOT (10 images)
+[2026-03-20 12:44:58,728] [INFO]   5. HARJOT KAUR (10 images)
+[2026-03-20 12:44:58,728] [INFO]   6. JOBAN SINGH (10 images)
+[2026-03-20 12:44:58,728] [INFO]   7. KARANVEER SINGH (10 images)
+[2026-03-20 12:44:58,728] [INFO]   8. KARANVIR (10 images)
+[2026-03-20 12:44:58,728] [INFO]   9. LOVNISH VERMA (10 images)
+[2026-03-20 12:44:58,728] [INFO]   10. MOHIT RAO (0 images)
+[2026-03-20 12:44:58,728] [INFO]   11. NIKSHEP PALIWAL (10 images)
+[2026-03-20 12:44:58,728] [INFO]   12. NITYA (10 images)
+[2026-03-20 12:44:58,728] [INFO]   13. RAHUL SIR (10 images)
+[2026-03-20 12:44:58,728] [INFO]   14. RAVI KANT (10 images)
+[2026-03-20 12:45:09,043] [INFO] Using CPU backend for DNN
+[2026-03-20 12:45:32,279] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-20 12:45:32,279] [INFO] 
+============================================================
+[2026-03-20 12:45:32,279] [INFO] Platform: Windows
+[2026-03-20 12:45:32,279] [INFO] Detection model: HOG
+[2026-03-20 12:45:32,279] [INFO] Max images: 10
+[2026-03-20 12:45:32,279] [INFO] ============================================================
+[2026-03-20 12:45:32,279] [INFO] INSTRUCTIONS:
+[2026-03-20 12:45:32,279] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-20 12:45:32,279] [INFO]   • Press 'q' to quit early
+[2026-03-20 12:45:32,279] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-20 12:45:32,279] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-20 12:45:32,279] [INFO]   • Vary your pose slightly between captures
+[2026-03-20 12:45:32,279] [INFO] ============================================================
+
+[2026-03-20 12:46:09,766] [INFO] [1/10] Saved MOHIT_1.jpg
+[2026-03-20 12:46:10,665] [INFO] [2/10] Saved MOHIT_2.jpg
+[2026-03-20 12:46:11,120] [INFO] [3/10] Saved MOHIT_3.jpg
+[2026-03-20 12:46:11,533] [INFO] [4/10] Saved MOHIT_4.jpg
+[2026-03-20 12:46:11,836] [INFO] [5/10] Saved MOHIT_5.jpg
+[2026-03-20 12:46:12,073] [INFO] [6/10] Saved MOHIT_6.jpg
+[2026-03-20 12:46:12,278] [INFO] [7/10] Saved MOHIT_7.jpg
+[2026-03-20 12:46:12,453] [INFO] [8/10] Saved MOHIT_8.jpg
+[2026-03-20 12:46:12,635] [INFO] [9/10] Saved MOHIT_9.jpg
+[2026-03-20 12:46:12,807] [INFO] [10/10] Saved MOHIT_10.jpg
+[2026-03-20 12:46:12,807] [INFO] Reached max image count (10)!
+[2026-03-20 12:46:13,089] [INFO] 
+============================================================
+[2026-03-20 12:46:13,089] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-20 12:46:13,099] [INFO] ============================================================
+[2026-03-20 12:46:13,099] [INFO]   • Person: MOHIT
+[2026-03-20 12:46:13,099] [INFO]   • Images captured: 10/10
+[2026-03-20 12:46:13,099] [INFO]   • Session duration: 40.8 seconds
+[2026-03-20 12:46:13,099] [INFO]   • Average capture interval: 0.3 seconds
+[2026-03-20 12:46:13,099] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\MOHIT
+[2026-03-20 12:46:13,099] [INFO] ============================================================
+[2026-03-20 12:46:13,099] [INFO] Data capture complete! You can now run the attendance system.
+[2026-03-21 12:47:31,374] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-21 12:47:31,374] [INFO] 1. Single person capture
+[2026-03-21 12:47:31,374] [INFO] 2. Batch capture (multiple persons)
+[2026-03-21 12:47:31,374] [INFO] 3. Exit
+[2026-03-21 12:47:36,482] [INFO] Existing persons in database (15):
+[2026-03-21 12:47:36,482] [INFO]   1. 2 (10 images)
+[2026-03-21 12:47:36,482] [INFO]   2. ANMOL KUMARI (10 images)
+[2026-03-21 12:47:36,482] [INFO]   3. GAGANDEEP SINGH (10 images)
+[2026-03-21 12:47:36,482] [INFO]   4. GURSIMRAN JOT (10 images)
+[2026-03-21 12:47:36,482] [INFO]   5. HARJOT KAUR (10 images)
+[2026-03-21 12:47:36,482] [INFO]   6. JOBAN SINGH (10 images)
+[2026-03-21 12:47:36,482] [INFO]   7. KARANVEER SINGH (10 images)
+[2026-03-21 12:47:36,482] [INFO]   8. KARANVIR (10 images)
+[2026-03-21 12:47:36,482] [INFO]   9. LOVNISH VERMA (10 images)
+[2026-03-21 12:47:36,482] [INFO]   10. MOHIT (10 images)
+[2026-03-21 12:47:36,482] [INFO]   11. MOHIT RAO (0 images)
+[2026-03-21 12:47:36,482] [INFO]   12. NIKSHEP PALIWAL (10 images)
+[2026-03-21 12:47:36,482] [INFO]   13. NITYA (10 images)
+[2026-03-21 12:47:36,482] [INFO]   14. RAHUL SIR (10 images)
+[2026-03-21 12:47:36,482] [INFO]   15. RAVI KANT (10 images)
+[2026-03-21 12:48:20,014] [INFO] Using CPU backend for DNN
+[2026-03-21 12:48:38,291] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-21 12:48:38,291] [INFO] 
+============================================================
+[2026-03-21 12:48:38,291] [INFO] Platform: Windows
+[2026-03-21 12:48:38,291] [INFO] Detection model: HOG
+[2026-03-21 12:48:38,291] [INFO] Max images: 10
+[2026-03-21 12:48:38,291] [INFO] ============================================================
+[2026-03-21 12:48:38,291] [INFO] INSTRUCTIONS:
+[2026-03-21 12:48:38,291] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-21 12:48:38,291] [INFO]   • Press 'q' to quit early
+[2026-03-21 12:48:38,291] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-21 12:48:38,291] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-21 12:48:38,291] [INFO]   • Vary your pose slightly between captures
+[2026-03-21 12:48:38,291] [INFO] ============================================================
+
+[2026-03-21 12:49:08,544] [INFO] [1/10] Saved HARSH VARDHAN CHOUBEY_1.jpg
+[2026-03-21 12:49:09,059] [INFO] [2/10] Saved HARSH VARDHAN CHOUBEY_2.jpg
+[2026-03-21 12:49:09,377] [INFO] [3/10] Saved HARSH VARDHAN CHOUBEY_3.jpg
+[2026-03-21 12:49:09,662] [INFO] [4/10] Saved HARSH VARDHAN CHOUBEY_4.jpg
+[2026-03-21 12:49:09,939] [INFO] [5/10] Saved HARSH VARDHAN CHOUBEY_5.jpg
+[2026-03-21 12:49:10,159] [INFO] [6/10] Saved HARSH VARDHAN CHOUBEY_6.jpg
+[2026-03-21 12:49:10,358] [INFO] [7/10] Saved HARSH VARDHAN CHOUBEY_7.jpg
+[2026-03-21 12:49:10,548] [INFO] [8/10] Saved HARSH VARDHAN CHOUBEY_8.jpg
+[2026-03-21 12:49:10,749] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-21 12:49:10,954] [INFO] [9/10] Saved HARSH VARDHAN CHOUBEY_9.jpg
+[2026-03-21 12:49:11,188] [INFO] [10/10] Saved HARSH VARDHAN CHOUBEY_10.jpg
+[2026-03-21 12:49:11,188] [INFO] Reached max image count (10)!
+[2026-03-21 12:49:11,487] [INFO] 
+============================================================
+[2026-03-21 12:49:11,487] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-21 12:49:11,487] [INFO] ============================================================
+[2026-03-21 12:49:11,487] [INFO]   • Person: HARSH VARDHAN CHOUBEY
+[2026-03-21 12:49:11,487] [INFO]   • Images captured: 10/10
+[2026-03-21 12:49:11,487] [INFO]   • Session duration: 33.2 seconds
+[2026-03-21 12:49:11,487] [INFO]   • Average capture interval: 0.3 seconds
+[2026-03-21 12:49:11,487] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\HARSH VARDHAN CHOUBEY
+[2026-03-21 12:49:11,487] [INFO] ============================================================
+[2026-03-21 12:49:11,487] [INFO] Data capture complete! You can now run the attendance system.
+[2026-03-21 12:55:38,126] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-21 12:55:38,126] [INFO] 1. Single person capture
+[2026-03-21 12:55:38,126] [INFO] 2. Batch capture (multiple persons)
+[2026-03-21 12:55:38,127] [INFO] 3. Exit
+[2026-03-21 12:55:46,469] [INFO] === BATCH CAPTURE MODE ===
+[2026-03-21 12:55:46,469] [INFO] Capture images for multiple persons without restarting.
+[2026-03-21 12:55:46,469] [INFO] Existing persons in database (16):
+[2026-03-21 12:55:46,469] [INFO]   1. 2 (10 images)
+[2026-03-21 12:55:46,469] [INFO]   2. ANMOL KUMARI (10 images)
+[2026-03-21 12:55:46,469] [INFO]   3. GAGANDEEP SINGH (10 images)
+[2026-03-21 12:55:46,469] [INFO]   4. GURSIMRAN JOT (10 images)
+[2026-03-21 12:55:46,469] [INFO]   5. HARJOT KAUR (10 images)
+[2026-03-21 12:55:46,469] [INFO]   6. HARSH VARDHAN CHOUBEY (10 images)
+[2026-03-21 12:55:46,469] [INFO]   7. JOBAN SINGH (10 images)
+[2026-03-21 12:55:46,469] [INFO]   8. KARANVEER SINGH (10 images)
+[2026-03-21 12:55:46,469] [INFO]   9. KARANVIR (10 images)
+[2026-03-21 12:55:46,469] [INFO]   10. LOVNISH VERMA (10 images)
+[2026-03-21 12:55:46,469] [INFO]   11. MOHIT (10 images)
+[2026-03-21 12:55:46,469] [INFO]   12. MOHIT RAO (0 images)
+[2026-03-21 12:55:46,469] [INFO]   13. NIKSHEP PALIWAL (10 images)
+[2026-03-21 12:55:46,469] [INFO]   14. NITYA (10 images)
+[2026-03-21 12:55:46,469] [INFO]   15. RAHUL SIR (10 images)
+[2026-03-21 12:55:46,469] [INFO]   16. RAVI KANT (10 images)
+[2026-03-21 12:55:54,868] [INFO] Using CPU backend for DNN
+[2026-03-21 12:56:10,806] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-21 12:56:10,806] [INFO] 
+============================================================
+[2026-03-21 12:56:10,806] [INFO] Platform: Windows
+[2026-03-21 12:56:10,806] [INFO] Detection model: HOG
+[2026-03-21 12:56:10,806] [INFO] Max images: 10
+[2026-03-21 12:56:10,806] [INFO] ============================================================
+[2026-03-21 12:56:10,806] [INFO] INSTRUCTIONS:
+[2026-03-21 12:56:10,806] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-21 12:56:10,806] [INFO]   • Press 'q' to quit early
+[2026-03-21 12:56:10,806] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-21 12:56:10,806] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-21 12:56:10,806] [INFO]   • Vary your pose slightly between captures
+[2026-03-21 12:56:10,806] [INFO] ============================================================
+
+[2026-03-21 12:59:34,172] [INFO] Interrupt received, shutting down gracefully.
+[2026-03-25 09:06:51,336] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-25 09:06:51,352] [INFO] 1. Single person capture
+[2026-03-25 09:06:51,352] [INFO] 2. Batch capture (multiple persons)
+[2026-03-25 09:06:51,352] [INFO] 3. Exit
+[2026-03-25 09:06:53,809] [INFO] Existing persons in database (15):
+[2026-03-25 09:06:53,809] [INFO]   1. ANMOL KUMARI (10 images)
+[2026-03-25 09:06:53,809] [INFO]   2. GAGANDEEP SINGH (10 images)
+[2026-03-25 09:06:53,809] [INFO]   3. GURSIMRAN JOT (10 images)
+[2026-03-25 09:06:53,809] [INFO]   4. HARJOT KAUR (10 images)
+[2026-03-25 09:06:53,809] [INFO]   5. HARSH VARDHAN CHOUBEY (10 images)
+[2026-03-25 09:06:53,824] [INFO]   6. JOBAN SINGH (10 images)
+[2026-03-25 09:06:53,824] [INFO]   7. KARANVEER SINGH (10 images)
+[2026-03-25 09:06:53,824] [INFO]   8. KARANVIR (10 images)
+[2026-03-25 09:06:53,824] [INFO]   9. LOVNISH VERMA (10 images)
+[2026-03-25 09:06:53,824] [INFO]   10. MOHIT RAO (0 images)
+[2026-03-25 09:06:53,824] [INFO]   11. NIKSHEP PALIWAL (10 images)
+[2026-03-25 09:06:53,824] [INFO]   12. NITYA (10 images)
+[2026-03-25 09:06:53,824] [INFO]   13. RAHUL SIR (10 images)
+[2026-03-25 09:06:53,824] [INFO]   14. RAVI KANT (10 images)
+[2026-03-25 09:06:53,824] [INFO]   15. ROHIT (0 images)
+[2026-03-25 09:07:01,483] [INFO] Using CPU backend for DNN
+[2026-03-25 09:07:10,258] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-25 09:07:10,258] [INFO] 
+============================================================
+[2026-03-25 09:07:10,258] [INFO] Platform: Windows
+[2026-03-25 09:07:10,258] [INFO] Detection model: HOG
+[2026-03-25 09:07:10,258] [INFO] Max images: 10
+[2026-03-25 09:07:10,273] [INFO] ============================================================
+[2026-03-25 09:07:10,273] [INFO] INSTRUCTIONS:
+[2026-03-25 09:07:10,273] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-25 09:07:10,273] [INFO]   • Press 'q' to quit early
+[2026-03-25 09:07:10,274] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-25 09:07:10,274] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-25 09:07:10,274] [INFO]   • Vary your pose slightly between captures
+[2026-03-25 09:07:10,274] [INFO] ============================================================
+
+[2026-03-25 09:07:46,893] [INFO] [1/10] Saved MOHIT_1.jpg
+[2026-03-25 09:07:47,748] [INFO] [2/10] Saved MOHIT_2.jpg
+[2026-03-25 09:07:48,113] [INFO] [3/10] Saved MOHIT_3.jpg
+[2026-03-25 09:07:48,705] [INFO] [4/10] Saved MOHIT_4.jpg
+[2026-03-25 09:07:48,994] [INFO] [5/10] Saved MOHIT_5.jpg
+[2026-03-25 09:07:49,201] [INFO] [6/10] Saved MOHIT_6.jpg
+[2026-03-25 09:07:49,407] [INFO] [7/10] Saved MOHIT_7.jpg
+[2026-03-25 09:07:49,617] [INFO] [8/10] Saved MOHIT_8.jpg
+[2026-03-25 09:07:49,843] [INFO] [9/10] Saved MOHIT_9.jpg
+[2026-03-25 09:07:50,077] [INFO] [10/10] Saved MOHIT_10.jpg
+[2026-03-25 09:07:50,077] [INFO] Reached max image count (10)!
+[2026-03-25 09:07:50,351] [INFO] 
+============================================================
+[2026-03-25 09:07:50,351] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-25 09:07:50,362] [INFO] ============================================================
+[2026-03-25 09:07:50,363] [INFO]   • Person: MOHIT
+[2026-03-25 09:07:50,363] [INFO]   • Images captured: 10/10
+[2026-03-25 09:07:50,364] [INFO]   • Session duration: 40.1 seconds
+[2026-03-25 09:07:50,364] [INFO]   • Average capture interval: 0.4 seconds
+[2026-03-25 09:07:50,364] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\MOHIT
+[2026-03-25 09:07:50,364] [INFO] ============================================================
+[2026-03-25 09:07:50,366] [INFO] Data capture complete! You can now run the attendance system.
+[2026-03-25 12:02:45,909] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-25 12:02:45,909] [INFO] 1. Single person capture
+[2026-03-25 12:02:45,909] [INFO] 2. Batch capture (multiple persons)
+[2026-03-25 12:02:45,909] [INFO] 3. Exit
+[2026-03-25 12:02:48,523] [INFO] Existing persons in database (1):
+[2026-03-25 12:02:48,523] [INFO]   1. HARSH VARDHAN CHOUBEY (10 images)
+[2026-03-25 12:03:01,438] [INFO] Using CPU backend for DNN
+[2026-03-25 12:03:11,033] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-25 12:03:11,033] [INFO] 
+============================================================
+[2026-03-25 12:03:11,033] [INFO] Platform: Windows
+[2026-03-25 12:03:11,033] [INFO] Detection model: HOG
+[2026-03-25 12:03:11,033] [INFO] Max images: 10
+[2026-03-25 12:03:11,033] [INFO] ============================================================
+[2026-03-25 12:03:11,033] [INFO] INSTRUCTIONS:
+[2026-03-25 12:03:11,033] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-25 12:03:11,033] [INFO]   • Press 'q' to quit early
+[2026-03-25 12:03:11,033] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-25 12:03:11,033] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-25 12:03:11,033] [INFO]   • Vary your pose slightly between captures
+[2026-03-25 12:03:11,033] [INFO] ============================================================
+
+[2026-03-25 12:04:13,650] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:13,828] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:14,036] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:14,223] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:14,573] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:14,743] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:14,937] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:15,176] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:15,338] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:15,606] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:15,788] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:15,995] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:16,244] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:16,511] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:16,697] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:16,940] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:17,191] [WARNING] Cannot capture: Detected 2 faces or face too small.
+[2026-03-25 12:04:24,330] [INFO] [1/10] Saved MOHIT RAO_1.jpg
+[2026-03-25 12:04:24,989] [INFO] [2/10] Saved MOHIT RAO_2.jpg
+[2026-03-25 12:04:25,300] [INFO] [3/10] Saved MOHIT RAO_3.jpg
+[2026-03-25 12:04:25,449] [INFO] [4/10] Saved MOHIT RAO_4.jpg
+[2026-03-25 12:04:25,620] [INFO] [5/10] Saved MOHIT RAO_5.jpg
+[2026-03-25 12:04:25,801] [INFO] [6/10] Saved MOHIT RAO_6.jpg
+[2026-03-25 12:04:25,980] [INFO] [7/10] Saved MOHIT RAO_7.jpg
+[2026-03-25 12:04:26,150] [INFO] [8/10] Saved MOHIT RAO_8.jpg
+[2026-03-25 12:04:26,321] [INFO] [9/10] Saved MOHIT RAO_9.jpg
+[2026-03-25 12:04:26,430] [INFO] [10/10] Saved MOHIT RAO_10.jpg
+[2026-03-25 12:04:26,430] [INFO] Reached max image count (10)!
+[2026-03-25 12:04:26,741] [INFO] 
+============================================================
+[2026-03-25 12:04:26,741] [INFO] CAPTURE SESSION SUMMARY
+[2026-03-25 12:04:26,743] [INFO] ============================================================
+[2026-03-25 12:04:26,743] [INFO]   • Person: MOHIT RAO
+[2026-03-25 12:04:26,744] [INFO]   • Images captured: 10/10
+[2026-03-25 12:04:26,744] [INFO]   • Session duration: 75.7 seconds
+[2026-03-25 12:04:26,745] [INFO]   • Average capture interval: 0.2 seconds
+[2026-03-25 12:04:26,745] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\MOHIT RAO
+[2026-03-25 12:04:26,745] [INFO] ============================================================
+[2026-03-25 12:04:26,745] [INFO] Data capture complete! You can now run the attendance system.
+[2026-03-25 12:06:21,500] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-25 12:06:21,500] [INFO] 1. Single person capture
+[2026-03-25 12:06:21,500] [INFO] 2. Batch capture (multiple persons)
+[2026-03-25 12:06:21,500] [INFO] 3. Exit
+[2026-03-25 12:06:36,106] [INFO] === BATCH CAPTURE MODE ===
+[2026-03-25 12:06:36,106] [INFO] Capture images for multiple persons without restarting.
+[2026-03-25 12:06:36,121] [INFO] Existing persons in database (2):
+[2026-03-25 12:06:36,121] [INFO]   1. HARSH VARDHAN CHOUBEY (10 images)
+[2026-03-25 12:06:36,121] [INFO]   2. MOHIT RAO (10 images)
+[2026-03-25 15:05:46,057] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-03-25 15:05:46,057] [INFO] 1. Single person capture
+[2026-03-25 15:05:46,057] [INFO] 2. Batch capture (multiple persons)
+[2026-03-25 15:05:46,057] [INFO] 3. Exit
+[2026-03-25 15:05:50,340] [INFO] Existing persons in database (2):
+[2026-03-25 15:05:50,340] [INFO]   1. HARSH VARDHAN CHOUBEY (10 images)
+[2026-03-25 15:05:50,340] [INFO]   2. MOHIT RAO (10 images)
+[2026-03-25 15:06:02,105] [INFO] Using CPU backend for DNN
+[2026-03-25 15:06:11,029] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-03-25 15:06:11,029] [INFO] 
+============================================================
+[2026-03-25 15:06:11,029] [INFO] Platform: Windows
+[2026-03-25 15:06:11,029] [INFO] Detection model: HOG
+[2026-03-25 15:06:11,029] [INFO] Max images: 10
+[2026-03-25 15:06:11,029] [INFO] ============================================================
+[2026-03-25 15:06:11,029] [INFO] INSTRUCTIONS:
+[2026-03-25 15:06:11,029] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-03-25 15:06:11,029] [INFO]   • Press 'q' to quit early
+[2026-03-25 15:06:11,029] [INFO]   • Press 'r' to retake the last captured image
+[2026-03-25 15:06:11,029] [INFO]   • Ensure good lighting and face the camera directly
+[2026-03-25 15:06:11,029] [INFO]   • Vary your pose slightly between captures
+[2026-03-25 15:06:11,029] [INFO] ============================================================
+
+[2026-03-25 15:07:03,989] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 11:33:27,408] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-04-21 11:33:27,408] [INFO] 1. Single person capture
+[2026-04-21 11:33:27,408] [INFO] 2. Batch capture (multiple persons)
+[2026-04-21 11:33:27,408] [INFO] 3. Exit
+[2026-04-21 11:33:30,621] [INFO] Existing persons in database (3):
+[2026-04-21 11:33:30,639] [INFO]   1. HARSH VARDHAN CHOUBEY (10 images)
+[2026-04-21 11:33:30,639] [INFO]   2. MOHIT RAO (10 images)
+[2026-04-21 11:33:30,639] [INFO]   3. PARAMJEET SINGH (0 images)
+[2026-04-21 11:33:52,134] [ERROR] Name cannot be empty.
+[2026-04-21 12:19:08,671] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-04-21 12:19:08,671] [INFO] 1. Single person capture
+[2026-04-21 12:19:08,671] [INFO] 2. Batch capture (multiple persons)
+[2026-04-21 12:19:08,671] [INFO] 3. Exit
+[2026-04-21 12:19:12,413] [INFO] Existing persons in database (3):
+[2026-04-21 12:19:12,429] [INFO]   1. HARSH VARDHAN CHOUBEY (10 images)
+[2026-04-21 12:19:12,429] [INFO]   2. MOHIT RAO (10 images)
+[2026-04-21 12:19:12,429] [INFO]   3. PARAMJEET SINGH (0 images)
+[2026-04-21 12:19:48,348] [INFO] Using CPU backend for DNN
+[2026-04-21 12:19:57,525] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-04-21 12:19:57,525] [INFO] 
+============================================================
+[2026-04-21 12:19:57,525] [INFO] Platform: Windows
+[2026-04-21 12:19:57,525] [INFO] Detection model: HOG
+[2026-04-21 12:19:57,525] [INFO] Max images: 10
+[2026-04-21 12:19:57,525] [INFO] ============================================================
+[2026-04-21 12:19:57,525] [INFO] INSTRUCTIONS:
+[2026-04-21 12:19:57,525] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-04-21 12:19:57,525] [INFO]   • Press 'q' to quit early
+[2026-04-21 12:19:57,525] [INFO]   • Press 'r' to retake the last captured image
+[2026-04-21 12:19:57,525] [INFO]   • Ensure good lighting and face the camera directly
+[2026-04-21 12:19:57,525] [INFO]   • Vary your pose slightly between captures
+[2026-04-21 12:19:57,525] [INFO] ============================================================
+
+[2026-04-21 12:20:24,048] [INFO] [1/10] Saved AASHISH PARIHAR_1.jpg
+[2026-04-21 12:20:24,339] [INFO] [2/10] Saved AASHISH PARIHAR_2.jpg
+[2026-04-21 12:20:24,510] [INFO] [3/10] Saved AASHISH PARIHAR_3.jpg
+[2026-04-21 12:20:25,021] [INFO] [4/10] Saved AASHISH PARIHAR_4.jpg
+[2026-04-21 12:20:25,200] [INFO] [5/10] Saved AASHISH PARIHAR_5.jpg
+[2026-04-21 12:20:25,513] [INFO] [6/10] Saved AASHISH PARIHAR_6.jpg
+[2026-04-21 12:20:25,834] [INFO] [7/10] Saved AASHISH PARIHAR_7.jpg
+[2026-04-21 12:20:25,998] [INFO] [8/10] Saved AASHISH PARIHAR_8.jpg
+[2026-04-21 12:20:26,134] [INFO] [9/10] Saved AASHISH PARIHAR_9.jpg
+[2026-04-21 12:20:26,278] [INFO] [10/10] Saved AASHISH PARIHAR_10.jpg
+[2026-04-21 12:20:26,278] [INFO] Reached max image count (10)!
+[2026-04-21 12:20:26,608] [INFO] 
+============================================================
+[2026-04-21 12:20:26,609] [INFO] CAPTURE SESSION SUMMARY
+[2026-04-21 12:20:26,609] [INFO] ============================================================
+[2026-04-21 12:20:26,609] [INFO]   • Person: AASHISH PARIHAR
+[2026-04-21 12:20:26,609] [INFO]   • Images captured: 10/10
+[2026-04-21 12:20:26,611] [INFO]   • Session duration: 29.1 seconds
+[2026-04-21 12:20:26,612] [INFO]   • Average capture interval: 0.2 seconds
+[2026-04-21 12:20:26,612] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\AASHISH PARIHAR
+[2026-04-21 12:20:26,612] [INFO] ============================================================
+[2026-04-21 12:20:26,612] [INFO] Data capture complete! You can now run the attendance system.
+[2026-04-21 20:38:49,675] [INFO] === ATTENDANCE SYSTEM - DATA CAPTURE ===
+[2026-04-21 20:38:49,675] [INFO] 1. Single person capture
+[2026-04-21 20:38:49,675] [INFO] 2. Batch capture (multiple persons)
+[2026-04-21 20:38:49,675] [INFO] 3. Exit
+[2026-04-21 20:38:52,202] [INFO] Existing persons in database (4):
+[2026-04-21 20:38:52,202] [INFO]   1. AASHISH PARIHAR (10 images)
+[2026-04-21 20:38:52,202] [INFO]   2. HARSH VARDHAN CHOUBEY (10 images)
+[2026-04-21 20:38:52,202] [INFO]   3. MOHIT RAO (10 images)
+[2026-04-21 20:38:52,202] [INFO]   4. PARAMJEET SINGH (0 images)
+[2026-04-21 20:39:07,717] [INFO] Using CPU backend for DNN
+[2026-04-21 20:39:14,939] [INFO] Camera resolution: 640x360 (requested: 480x360)
+[2026-04-21 20:39:14,939] [INFO] 
+============================================================
+[2026-04-21 20:39:14,939] [INFO] Platform: Windows
+[2026-04-21 20:39:14,955] [INFO] Detection model: HOG
+[2026-04-21 20:39:14,955] [INFO] Max images: 10
+[2026-04-21 20:39:14,955] [INFO] ============================================================
+[2026-04-21 20:39:14,955] [INFO] INSTRUCTIONS:
+[2026-04-21 20:39:14,955] [INFO]   • Press SPACE to capture an image (single face required)
+[2026-04-21 20:39:14,955] [INFO]   • Press 'q' to quit early
+[2026-04-21 20:39:14,955] [INFO]   • Press 'r' to retake the last captured image
+[2026-04-21 20:39:14,955] [INFO]   • Ensure good lighting and face the camera directly
+[2026-04-21 20:39:14,955] [INFO]   • Vary your pose slightly between captures
+[2026-04-21 20:39:14,955] [INFO] ============================================================
+
+[2026-04-21 20:41:59,518] [INFO] [1/10] Saved ROHIT KUMAR DHAKA_1.jpg
+[2026-04-21 20:41:59,966] [INFO] [2/10] Saved ROHIT KUMAR DHAKA_2.jpg
+[2026-04-21 20:42:00,271] [INFO] [3/10] Saved ROHIT KUMAR DHAKA_3.jpg
+[2026-04-21 20:42:00,526] [INFO] [4/10] Saved ROHIT KUMAR DHAKA_4.jpg
+[2026-04-21 20:42:00,688] [INFO] [5/10] Saved ROHIT KUMAR DHAKA_5.jpg
+[2026-04-21 20:42:00,898] [INFO] [6/10] Saved ROHIT KUMAR DHAKA_6.jpg
+[2026-04-21 20:42:01,087] [INFO] [7/10] Saved ROHIT KUMAR DHAKA_7.jpg
+[2026-04-21 20:42:01,262] [INFO] [8/10] Saved ROHIT KUMAR DHAKA_8.jpg
+[2026-04-21 20:42:01,454] [INFO] [9/10] Saved ROHIT KUMAR DHAKA_9.jpg
+[2026-04-21 20:42:01,630] [INFO] [10/10] Saved ROHIT KUMAR DHAKA_10.jpg
+[2026-04-21 20:42:01,630] [INFO] Reached max image count (10)!
+[2026-04-21 20:42:01,935] [INFO] 
+============================================================
+[2026-04-21 20:42:01,935] [INFO] CAPTURE SESSION SUMMARY
+[2026-04-21 20:42:01,935] [INFO] ============================================================
+[2026-04-21 20:42:01,935] [INFO]   • Person: ROHIT KUMAR DHAKA
+[2026-04-21 20:42:01,935] [INFO]   • Images captured: 10/10
+[2026-04-21 20:42:01,935] [INFO]   • Session duration: 167.0 seconds
+[2026-04-21 20:42:01,935] [INFO]   • Average capture interval: 0.2 seconds
+[2026-04-21 20:42:01,945] [INFO]   • Saved to: D:\myproject\FaceRecognition-Attendance\Attendance_data\ROHIT KUMAR DHAKA
+[2026-04-21 20:42:01,945] [INFO] ============================================================
+[2026-04-21 20:42:01,945] [INFO] Data capture complete! You can now run the attendance system.

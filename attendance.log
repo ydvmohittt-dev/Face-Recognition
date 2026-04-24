@@ -1,0 +1,385 @@
+[2026-03-25 09:06:05,150] [INFO] Interrupt received, shutting down gracefully.
+[2026-03-25 12:05:14,837] [INFO] ============================================================
+[2026-03-25 12:05:14,837] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-03-25 12:05:14,837] [INFO] ============================================================
+[2026-03-25 12:05:14,837] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-03-25 12:05:14,837] [WARNING] Could not check CPU governor.
+[2026-03-25 12:05:14,840] [INFO] Directories verified
+[2026-03-25 12:05:17,403] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_03_25.csv
+[2026-03-25 12:05:17,404] [INFO] Loaded 1 existing attendance records
+[2026-03-25 12:05:17,404] [INFO] Already marked: 2
+[2026-03-25 12:05:17,404] [INFO] 
+============================================================
+[2026-03-25 12:05:17,404] [INFO] LOADING TRAINING DATA
+[2026-03-25 12:05:17,404] [INFO] ============================================================
+[2026-03-25 12:05:17,404] [INFO] Found 2 persons: ['HARSH VARDHAN CHOUBEY', 'MOHIT RAO']
+[2026-03-25 12:05:17,451] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-03-25 12:05:17,514] [INFO]     MOHIT RAO: 5 images
+[2026-03-25 12:05:17,514] [INFO] Loaded 10 total images for 2 persons
+[2026-03-25 12:05:17,514] [INFO] Generating face encodings...
+[2026-03-25 12:05:22,078] [INFO] Successfully generated encodings for 2 persons
+[2026-03-25 12:05:22,078] [INFO] ============================================================
+[2026-03-25 12:05:22,078] [INFO] Loading face detection model...
+[2026-03-25 12:05:22,140] [INFO] Using CPU backend for DNN
+[2026-03-25 12:05:22,140] [INFO] Initializing camera...
+[2026-03-25 12:05:31,222] [INFO] Camera resolution: 640x480
+[2026-03-25 12:05:31,396] [INFO] 
+============================================================
+[2026-03-25 12:05:31,396] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-03-25 12:05:31,396] [INFO] ============================================================
+[2026-03-25 12:05:31,396] [INFO] Position yourself in front of the camera
+[2026-03-25 12:05:31,396] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-03-25 12:05:31,396] [INFO] ============================================================
+
+[2026-03-25 12:05:40,287] [INFO] Marked MOHIT RAO at 12:05:40
+[2026-03-25 12:05:46,252] [INFO] Interrupt received, shutting down gracefully.
+[2026-03-25 15:07:25,814] [INFO] ============================================================
+[2026-03-25 15:07:25,814] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-03-25 15:07:25,814] [INFO] ============================================================
+[2026-03-25 15:07:25,814] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-03-25 15:07:25,814] [WARNING] Could not check CPU governor.
+[2026-03-25 15:07:25,814] [INFO] Directories verified
+[2026-03-25 15:07:25,859] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_03_25.csv
+[2026-03-25 15:07:25,859] [INFO] Loaded 2 existing attendance records
+[2026-03-25 15:07:25,859] [INFO] Already marked: 2, MOHIT RAO
+[2026-03-25 15:07:25,859] [INFO] 
+============================================================
+[2026-03-25 15:07:25,859] [INFO] LOADING TRAINING DATA
+[2026-03-25 15:07:25,875] [INFO] ============================================================
+[2026-03-25 15:07:25,876] [INFO] Found 3 persons: ['HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'PARAMJEET SINGH']
+[2026-03-25 15:07:25,876] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-03-25 15:07:25,891] [INFO]     MOHIT RAO: 5 images
+[2026-03-25 15:07:25,891] [INFO]     PARAMJEET SINGH: 0 images
+[2026-03-25 15:07:25,891] [INFO] Loaded 10 total images for 3 persons
+[2026-03-25 15:07:25,891] [INFO] Generating face encodings...
+[2026-03-25 15:07:30,361] [INFO] Successfully generated encodings for 2 persons
+[2026-03-25 15:07:30,361] [INFO] ============================================================
+[2026-03-25 15:07:30,361] [INFO] Loading face detection model...
+[2026-03-25 15:07:30,409] [INFO] Using CPU backend for DNN
+[2026-03-25 15:07:30,409] [INFO] Initializing camera...
+[2026-03-25 15:07:38,113] [INFO] Camera resolution: 640x480
+[2026-03-25 15:07:38,192] [INFO] 
+============================================================
+[2026-03-25 15:07:38,192] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-03-25 15:07:38,192] [INFO] ============================================================
+[2026-03-25 15:07:38,192] [INFO] Position yourself in front of the camera
+[2026-03-25 15:07:38,192] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-03-25 15:07:38,192] [INFO] ============================================================
+
+[2026-03-25 15:08:32,810] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 11:34:05,032] [INFO] ============================================================
+[2026-04-21 11:34:05,032] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-21 11:34:05,032] [INFO] ============================================================
+[2026-04-21 11:34:05,032] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-21 11:34:05,032] [WARNING] Could not check CPU governor.
+[2026-04-21 11:34:05,032] [INFO] Directories verified
+[2026-04-21 11:34:07,808] [INFO] Created new attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_21.csv
+[2026-04-21 11:34:07,816] [INFO] 
+============================================================
+[2026-04-21 11:34:07,816] [INFO] LOADING TRAINING DATA
+[2026-04-21 11:34:07,824] [INFO] ============================================================
+[2026-04-21 11:34:07,824] [INFO] Found 3 persons: ['HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'PARAMJEET SINGH']
+[2026-04-21 11:34:07,871] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-21 11:34:07,934] [INFO]     MOHIT RAO: 5 images
+[2026-04-21 11:34:07,934] [INFO]     PARAMJEET SINGH: 0 images
+[2026-04-21 11:34:07,934] [INFO] Loaded 10 total images for 3 persons
+[2026-04-21 11:34:07,934] [INFO] Generating face encodings...
+[2026-04-21 11:34:12,865] [INFO] Successfully generated encodings for 2 persons
+[2026-04-21 11:34:12,865] [INFO] ============================================================
+[2026-04-21 11:34:12,865] [INFO] Loading face detection model...
+[2026-04-21 11:34:12,992] [INFO] Using CPU backend for DNN
+[2026-04-21 11:34:12,992] [INFO] Initializing camera...
+[2026-04-21 11:34:22,427] [INFO] Camera resolution: 640x480
+[2026-04-21 11:34:22,537] [INFO] 
+============================================================
+[2026-04-21 11:34:22,538] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-21 11:34:22,538] [INFO] ============================================================
+[2026-04-21 11:34:22,538] [INFO] Position yourself in front of the camera
+[2026-04-21 11:34:22,538] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-21 11:34:22,539] [INFO] ============================================================
+
+[2026-04-21 11:34:29,443] [INFO] Marked MOHIT RAO at 11:34:29
+[2026-04-21 11:34:34,724] [INFO] Marked HARSH VARDHAN CHOUBEY at 11:34:34
+[2026-04-21 11:34:55,612] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 11:44:47,875] [INFO] ============================================================
+[2026-04-21 11:44:47,876] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-21 11:44:47,876] [INFO] ============================================================
+[2026-04-21 11:44:47,876] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-21 11:44:47,877] [WARNING] Could not check CPU governor.
+[2026-04-21 11:44:47,877] [INFO] Directories verified
+[2026-04-21 11:44:47,948] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_21.csv
+[2026-04-21 11:44:47,948] [INFO] Loaded 2 existing attendance records
+[2026-04-21 11:44:47,948] [INFO] Already marked: HARSH VARDHAN CHOUBEY, MOHIT RAO
+[2026-04-21 11:44:47,948] [INFO] 
+============================================================
+[2026-04-21 11:44:47,948] [INFO] LOADING TRAINING DATA
+[2026-04-21 11:44:47,948] [INFO] ============================================================
+[2026-04-21 11:44:47,948] [INFO] Found 3 persons: ['HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'PARAMJEET SINGH']
+[2026-04-21 11:44:47,976] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-21 11:44:47,988] [INFO]     MOHIT RAO: 5 images
+[2026-04-21 11:44:47,988] [INFO]     PARAMJEET SINGH: 0 images
+[2026-04-21 11:44:47,988] [INFO] Loaded 10 total images for 3 persons
+[2026-04-21 11:44:47,988] [INFO] Generating face encodings...
+[2026-04-21 11:44:52,669] [INFO] Successfully generated encodings for 2 persons
+[2026-04-21 11:44:52,669] [INFO] ============================================================
+[2026-04-21 11:44:52,669] [INFO] Loading face detection model...
+[2026-04-21 11:44:52,716] [INFO] Using CPU backend for DNN
+[2026-04-21 11:44:52,716] [INFO] Initializing camera...
+[2026-04-21 11:45:01,362] [INFO] Camera resolution: 640x480
+[2026-04-21 11:45:01,458] [INFO] 
+============================================================
+[2026-04-21 11:45:01,458] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-21 11:45:01,473] [INFO] ============================================================
+[2026-04-21 11:45:01,473] [INFO] Position yourself in front of the camera
+[2026-04-21 11:45:01,473] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-21 11:45:01,473] [INFO] ============================================================
+
+[2026-04-21 11:45:15,248] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 12:20:49,111] [INFO] ============================================================
+[2026-04-21 12:20:49,111] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-21 12:20:49,111] [INFO] ============================================================
+[2026-04-21 12:20:49,111] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-21 12:20:49,111] [WARNING] Could not check CPU governor.
+[2026-04-21 12:20:49,111] [INFO] Directories verified
+[2026-04-21 12:20:49,267] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_21.csv
+[2026-04-21 12:20:49,284] [INFO] Loaded 2 existing attendance records
+[2026-04-21 12:20:49,284] [INFO] Already marked: HARSH VARDHAN CHOUBEY, MOHIT RAO
+[2026-04-21 12:20:49,284] [INFO] 
+============================================================
+[2026-04-21 12:20:49,284] [INFO] LOADING TRAINING DATA
+[2026-04-21 12:20:49,284] [INFO] ============================================================
+[2026-04-21 12:20:49,284] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'PARAMJEET SINGH']
+[2026-04-21 12:20:49,331] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-21 12:20:49,346] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-21 12:20:49,361] [INFO]     MOHIT RAO: 5 images
+[2026-04-21 12:20:49,361] [INFO]     PARAMJEET SINGH: 0 images
+[2026-04-21 12:20:49,361] [INFO] Loaded 15 total images for 4 persons
+[2026-04-21 12:20:49,361] [INFO] Generating face encodings...
+[2026-04-21 12:20:56,333] [INFO] Successfully generated encodings for 3 persons
+[2026-04-21 12:20:56,333] [INFO] ============================================================
+[2026-04-21 12:20:56,333] [INFO] Loading face detection model...
+[2026-04-21 12:20:56,381] [INFO] Using CPU backend for DNN
+[2026-04-21 12:20:56,381] [INFO] Initializing camera...
+[2026-04-21 12:21:04,076] [INFO] Camera resolution: 640x480
+[2026-04-21 12:21:04,172] [INFO] 
+============================================================
+[2026-04-21 12:21:04,172] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-21 12:21:04,172] [INFO] ============================================================
+[2026-04-21 12:21:04,172] [INFO] Position yourself in front of the camera
+[2026-04-21 12:21:04,172] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-21 12:21:04,188] [INFO] ============================================================
+
+[2026-04-21 12:21:14,565] [INFO] Marked AASHISH PARIHAR at 12:21:14
+[2026-04-21 12:22:06,804] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 20:42:27,180] [INFO] ============================================================
+[2026-04-21 20:42:27,180] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-21 20:42:27,180] [INFO] ============================================================
+[2026-04-21 20:42:27,180] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-21 20:42:27,180] [WARNING] Could not check CPU governor.
+[2026-04-21 20:42:27,180] [INFO] Directories verified
+[2026-04-21 20:42:29,509] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_21.csv
+[2026-04-21 20:42:29,509] [INFO] Loaded 3 existing attendance records
+[2026-04-21 20:42:29,509] [INFO] Already marked: AASHISH PARIHAR, HARSH VARDHAN CHOUBEY, MOHIT RAO
+[2026-04-21 20:42:29,509] [INFO] 
+============================================================
+[2026-04-21 20:42:29,509] [INFO] LOADING TRAINING DATA
+[2026-04-21 20:42:29,509] [INFO] ============================================================
+[2026-04-21 20:42:29,509] [INFO] Found 5 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'PARAMJEET SINGH', 'ROHIT KUMAR DHAKA']
+[2026-04-21 20:42:29,572] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-21 20:42:29,603] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-21 20:42:29,650] [INFO]     MOHIT RAO: 5 images
+[2026-04-21 20:42:29,650] [INFO]     PARAMJEET SINGH: 0 images
+[2026-04-21 20:42:29,697] [INFO]     ROHIT KUMAR DHAKA: 5 images
+[2026-04-21 20:42:29,697] [INFO] Loaded 20 total images for 5 persons
+[2026-04-21 20:42:29,697] [INFO] Generating face encodings...
+[2026-04-21 20:42:37,671] [INFO] Successfully generated encodings for 4 persons
+[2026-04-21 20:42:37,671] [INFO] ============================================================
+[2026-04-21 20:42:37,671] [INFO] Loading face detection model...
+[2026-04-21 20:42:37,734] [INFO] Using CPU backend for DNN
+[2026-04-21 20:42:37,734] [INFO] Initializing camera...
+[2026-04-21 20:42:44,847] [INFO] Camera resolution: 640x480
+[2026-04-21 20:42:44,910] [INFO] 
+============================================================
+[2026-04-21 20:42:44,910] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-21 20:42:44,910] [INFO] ============================================================
+[2026-04-21 20:42:44,910] [INFO] Position yourself in front of the camera
+[2026-04-21 20:42:44,910] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-21 20:42:44,910] [INFO] ============================================================
+
+[2026-04-21 20:42:54,128] [INFO] Marked ROHIT KUMAR DHAKA at 20:42:54
+[2026-04-21 20:43:06,251] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-21 20:47:07,073] [INFO] ============================================================
+[2026-04-21 20:47:07,073] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-21 20:47:07,073] [INFO] ============================================================
+[2026-04-21 20:47:07,073] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-21 20:47:07,073] [WARNING] Could not check CPU governor.
+[2026-04-21 20:47:07,088] [INFO] Directories verified
+[2026-04-21 20:47:07,135] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_21.csv
+[2026-04-21 20:47:07,135] [INFO] Loaded 4 existing attendance records
+[2026-04-21 20:47:07,135] [INFO] Already marked: AASHISH PARIHAR, HARSH VARDHAN CHOUBEY, MOHIT RAO, ROHIT KUMAR DHAKA
+[2026-04-21 20:47:07,135] [INFO] 
+============================================================
+[2026-04-21 20:47:07,135] [INFO] LOADING TRAINING DATA
+[2026-04-21 20:47:07,135] [INFO] ============================================================
+[2026-04-21 20:47:07,135] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'ROHIT KUMAR DHAKA']
+[2026-04-21 20:47:07,135] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-21 20:47:07,151] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-21 20:47:07,167] [INFO]     MOHIT RAO: 5 images
+[2026-04-21 20:47:07,167] [INFO]     ROHIT KUMAR DHAKA: 5 images
+[2026-04-21 20:47:07,167] [INFO] Loaded 20 total images for 4 persons
+[2026-04-21 20:47:07,167] [INFO] Generating face encodings...
+[2026-04-21 20:47:14,902] [INFO] Successfully generated encodings for 4 persons
+[2026-04-21 20:47:14,902] [INFO] ============================================================
+[2026-04-21 20:47:14,902] [INFO] Loading face detection model...
+[2026-04-21 20:47:14,934] [INFO] Using CPU backend for DNN
+[2026-04-21 20:47:14,934] [INFO] Initializing camera...
+[2026-04-21 20:47:21,967] [INFO] Camera resolution: 640x480
+[2026-04-21 20:47:22,030] [INFO] 
+============================================================
+[2026-04-21 20:47:22,030] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-21 20:47:22,030] [INFO] ============================================================
+[2026-04-21 20:47:22,030] [INFO] Position yourself in front of the camera
+[2026-04-21 20:47:22,030] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-21 20:47:22,030] [INFO] ============================================================
+
+[2026-04-21 20:49:55,030] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-22 19:36:50,835] [INFO] ============================================================
+[2026-04-22 19:36:50,835] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-22 19:36:50,835] [INFO] ============================================================
+[2026-04-22 19:36:50,835] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-22 19:36:50,835] [WARNING] Could not check CPU governor.
+[2026-04-22 19:36:50,835] [INFO] Directories verified
+[2026-04-22 19:36:53,728] [INFO] Created new attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_22.csv
+[2026-04-22 19:36:53,734] [INFO] 
+============================================================
+[2026-04-22 19:36:53,734] [INFO] LOADING TRAINING DATA
+[2026-04-22 19:36:53,734] [INFO] ============================================================
+[2026-04-22 19:36:53,741] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'ROHIT KUMAR DHAKA']
+[2026-04-22 19:36:53,809] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-22 19:36:53,865] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-22 19:36:53,915] [INFO]     MOHIT RAO: 5 images
+[2026-04-22 19:36:53,962] [INFO]     ROHIT KUMAR DHAKA: 5 images
+[2026-04-22 19:36:53,962] [INFO] Loaded 20 total images for 4 persons
+[2026-04-22 19:36:53,962] [INFO] Generating face encodings...
+[2026-04-22 19:37:08,323] [INFO] Successfully generated encodings for 4 persons
+[2026-04-22 19:37:08,323] [INFO] ============================================================
+[2026-04-22 19:37:08,325] [INFO] Loading face detection model...
+[2026-04-22 19:37:08,490] [INFO] Using CPU backend for DNN
+[2026-04-22 19:37:08,490] [INFO] Initializing camera...
+[2026-04-22 19:37:21,681] [INFO] Camera resolution: 640x480
+[2026-04-22 19:37:21,770] [INFO] 
+============================================================
+[2026-04-22 19:37:21,770] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-22 19:37:21,770] [INFO] ============================================================
+[2026-04-22 19:37:21,770] [INFO] Position yourself in front of the camera
+[2026-04-22 19:37:21,770] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-22 19:37:21,770] [INFO] ============================================================
+
+[2026-04-22 19:37:31,961] [INFO] Marked MOHIT RAO at 19:37:31
+[2026-04-22 19:37:39,837] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-22 19:48:42,473] [INFO] ============================================================
+[2026-04-22 19:48:42,473] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-22 19:48:42,473] [INFO] ============================================================
+[2026-04-22 19:48:42,473] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-22 19:48:42,473] [WARNING] Could not check CPU governor.
+[2026-04-22 19:48:42,473] [INFO] Directories verified
+[2026-04-22 19:48:42,535] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_22.csv
+[2026-04-22 19:48:42,535] [INFO] Loaded 1 existing attendance records
+[2026-04-22 19:48:42,535] [INFO] Already marked: MOHIT RAO
+[2026-04-22 19:48:42,535] [INFO] 
+============================================================
+[2026-04-22 19:48:42,535] [INFO] LOADING TRAINING DATA
+[2026-04-22 19:48:42,551] [INFO] ============================================================
+[2026-04-22 19:48:42,551] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'ROHIT KUMAR DHAKA']
+[2026-04-22 19:48:42,598] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-22 19:48:42,629] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-22 19:48:42,645] [INFO]     MOHIT RAO: 5 images
+[2026-04-22 19:48:42,660] [INFO]     ROHIT KUMAR DHAKA: 5 images
+[2026-04-22 19:48:42,676] [INFO] Loaded 20 total images for 4 persons
+[2026-04-22 19:48:42,676] [INFO] Generating face encodings...
+[2026-04-22 19:48:51,640] [INFO] Successfully generated encodings for 4 persons
+[2026-04-22 19:48:51,640] [INFO] ============================================================
+[2026-04-22 19:48:51,640] [INFO] Loading face detection model...
+[2026-04-22 19:48:51,686] [INFO] Using CPU backend for DNN
+[2026-04-22 19:48:51,686] [INFO] Initializing camera...
+[2026-04-22 19:48:59,154] [INFO] Camera resolution: 640x480
+[2026-04-22 19:48:59,302] [INFO] 
+============================================================
+[2026-04-22 19:48:59,302] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-22 19:48:59,302] [INFO] ============================================================
+[2026-04-22 19:48:59,302] [INFO] Position yourself in front of the camera
+[2026-04-22 19:48:59,302] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-22 19:48:59,302] [INFO] ============================================================
+
+[2026-04-22 19:49:19,514] [INFO] Marked ROHIT KUMAR DHAKA at 19:49:19
+[2026-04-22 19:49:26,616] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-23 20:15:07,417] [INFO] ============================================================
+[2026-04-23 20:15:07,417] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-23 20:15:07,417] [INFO] ============================================================
+[2026-04-23 20:15:07,417] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-23 20:15:07,417] [WARNING] Could not check CPU governor.
+[2026-04-23 20:15:07,417] [INFO] Directories verified
+[2026-04-23 20:15:09,738] [INFO] Created new attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_23.csv
+[2026-04-23 20:15:09,754] [INFO] 
+============================================================
+[2026-04-23 20:15:09,754] [INFO] LOADING TRAINING DATA
+[2026-04-23 20:15:09,754] [INFO] ============================================================
+[2026-04-23 20:15:09,754] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'ROHIT KUMAR DHAKA']
+[2026-04-23 20:15:09,818] [INFO]     AASHISH PARIHAR: 5 images
+[2026-04-23 20:15:09,879] [INFO]     HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-23 20:15:09,926] [INFO]     MOHIT RAO: 5 images
+[2026-04-23 20:15:09,975] [INFO]     ROHIT KUMAR DHAKA: 5 images
+[2026-04-23 20:15:09,975] [INFO] Loaded 20 total images for 4 persons
+[2026-04-23 20:15:09,975] [INFO] Generating face encodings...
+[2026-04-23 20:15:19,289] [INFO] Successfully generated encodings for 4 persons
+[2026-04-23 20:15:19,289] [INFO] ============================================================
+[2026-04-23 20:15:19,289] [INFO] Loading face detection model...
+[2026-04-23 20:15:19,400] [INFO] Using CPU backend for DNN
+[2026-04-23 20:15:19,400] [INFO] Initializing camera...
+[2026-04-23 20:15:27,194] [INFO] Camera resolution: 640x480
+[2026-04-23 20:15:27,353] [INFO] 
+============================================================
+[2026-04-23 20:15:27,353] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-23 20:15:27,353] [INFO] ============================================================
+[2026-04-23 20:15:27,353] [INFO] Position yourself in front of the camera
+[2026-04-23 20:15:27,353] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-23 20:15:27,353] [INFO] ============================================================
+
+[2026-04-23 20:15:29,976] [INFO] Marked MOHIT RAO at 20:15:29
+[2026-04-23 20:15:40,464] [INFO] Interrupt received, shutting down gracefully.
+[2026-04-23 20:25:28,272] [INFO] ============================================================
+[2026-04-23 20:25:28,272] [INFO]           JETSON UNKNOWN ATTENDANCE SYSTEM
+[2026-04-23 20:25:28,272] [INFO] ============================================================
+[2026-04-23 20:25:28,272] [WARNING] dlib CUDA not enabled. Using HOG model. Reinstall dlib with CUDA for better performance.
+[2026-04-23 20:25:28,272] [WARNING] Could not check CPU governor.
+[2026-04-23 20:25:28,272] [INFO] Directories verified
+[2026-04-23 20:25:28,350] [INFO] Using existing attendance file: D:\myproject\FaceRecognition-Attendance\Attendance_Entry\Attendance_2026_04_23.csv
+[2026-04-23 20:25:28,350] [INFO] Loaded 1 existing attendance records
+[2026-04-23 20:25:28,350] [INFO] Already marked: MOHIT RAO
+[2026-04-23 20:25:28,350] [INFO] 
+============================================================
+[2026-04-23 20:25:28,350] [INFO] LOADING TRAINING DATA
+[2026-04-23 20:25:28,350] [INFO] ============================================================
+[2026-04-23 20:25:28,350] [INFO] Found 4 persons: ['AASHISH PARIHAR', 'HARSH VARDHAN CHOUBEY', 'MOHIT RAO', 'ROHIT KUMAR DHAKA']
+[2026-04-23 20:25:28,382] [INFO]   • AASHISH PARIHAR: 5 images
+[2026-04-23 20:25:28,397] [INFO]   • HARSH VARDHAN CHOUBEY: 5 images
+[2026-04-23 20:25:28,412] [INFO]   • MOHIT RAO: 5 images
+[2026-04-23 20:25:28,429] [INFO]   • ROHIT KUMAR DHAKA: 5 images
+[2026-04-23 20:25:28,429] [INFO] Loaded 20 total images for 4 persons
+[2026-04-23 20:25:28,429] [INFO] Generating face encodings...
+[2026-04-23 20:25:38,358] [INFO] Successfully generated encodings for 4 persons
+[2026-04-23 20:25:38,358] [INFO] ============================================================
+[2026-04-23 20:25:38,358] [INFO] Loading face detection model...
+[2026-04-23 20:25:38,406] [INFO] Using CPU backend for DNN
+[2026-04-23 20:25:38,406] [INFO] Initializing camera...
+[2026-04-23 20:25:45,874] [INFO] Camera resolution: 640x480
+[2026-04-23 20:25:45,985] [INFO] 
+============================================================
+[2026-04-23 20:25:45,993] [INFO] SYSTEM READY - Starting attendance monitoring
+[2026-04-23 20:25:45,993] [INFO] ============================================================
+[2026-04-23 20:25:45,993] [INFO] Position yourself in front of the camera
+[2026-04-23 20:25:45,993] [INFO] Press 'q' to quit (or Ctrl+C)
+[2026-04-23 20:25:45,993] [INFO] ============================================================
+
+[2026-04-23 20:26:14,245] [INFO] Marked ROHIT KUMAR DHAKA at 20:26:14
+[2026-04-23 20:26:36,853] [INFO] Interrupt received, shutting down gracefully.
