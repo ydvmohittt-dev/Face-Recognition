@@ -93,7 +93,7 @@ Colne The project and set up the environment:
 Run following commands:
 
 ```bash
-git clone https://github.com/lovnishverma/FaceRecognition-Attendance.git
+git clone https://github.com/ydvmohittt-dev/Face-Recognition
 cd FaceRecognition-Attendance
 python3 -m venv ~/dlib_env
 source ~/dlib_env/bin/activate
@@ -106,7 +106,7 @@ pip install numpy==1.23.5 "opencv-contrib-python>=4.8"
 You can run the following commands:
 
 ```bash
-git clone https://github.com/davisking/dlib.git
+git clone https://github.com/ydvmohittt-dev/Face-Recognition
 cd dlib
 mkdir build && cd build
 cmake.
